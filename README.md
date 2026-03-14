@@ -4,7 +4,7 @@
 
 # Fluxo Geral
 
-EventBridge (1 min schedule) → Lambda (API ingestion) → S3 Bronze (raw JSON) → EventBridge (via S3 Event) → Glue Workflow → Glue Job Silver (typed + partitioned parquet) → Glue Job Gold (hourly & daily analytics)
+EventBridge (1 min schedule) → Lambda (API ingestion) → S3 Bronze (raw JSON) → EventBridge (via S3 Event) → Glue Workflow → Glue Job Silver (typed + partitioned parquet) → Glue Job Gold (hourly & daily analytics) → AWS Glue Data Catalog + AWS Athena
 
 # Decisões Arquiteturais
 
