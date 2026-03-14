@@ -145,7 +145,6 @@ O processamento é realizado por 2 Glues Jobs distintos, com schedules acionados
 Estruturação do S3 com modelo medalhão:
 
 <img width="696" height="375" alt="image" src="https://github.com/user-attachments/assets/1713ebf7-15d1-4cf8-b969-a5eaee6b33c6" />
-![images](imagens/Modelo_S3.jpg)
 
 # AWS Lambda 
 
