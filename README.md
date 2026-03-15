@@ -517,10 +517,13 @@ print("Job finalizado com sucesso.")
 
 `````
 
+## Configuração do Glue Schedule
+
+IMAGEM
+
 ## Run do Job rodando com sucesso:
 
 <img width="1561" height="697" alt="image" src="https://github.com/user-attachments/assets/43a3559e-8d41-403b-bea3-8b6e5a64a4ea" />
-
 
 ## Arquivo criado com sucesso na camada gold:
 
@@ -693,6 +696,10 @@ df_gold = (
 print('Job diário finalizado com sucesso.')
 
 `````
+
+## Configuração do Glue Schedule
+
+IMAGEM
 
 ## Run do Job rodando com sucesso:
 
